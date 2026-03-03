@@ -96,6 +96,7 @@ Category-wise rating distribution analysis
 Clone the repository
 
 git clone https://github.com/Thiru072000/customer-trends-data-analysis-SQL-Python-Power-BI.git
+
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 
 Open the Jupyter Notebook file
