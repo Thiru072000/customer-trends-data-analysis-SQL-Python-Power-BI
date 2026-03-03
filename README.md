@@ -31,6 +31,7 @@ Jupyter Notebook – Analysis workflow
 GitHub – Version control and documentation
 
 📊 Project Workflow
+
 1️⃣ Data Preparation & Cleaning (Python)
 
 Loaded raw customer dataset
